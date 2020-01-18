@@ -13,6 +13,7 @@
 * [Setup](#setup)
   * [Beginning with simp_banners](#beginning-with-simp_banners)
 * [Usage](#usage)
+* [Reference](#reference)
 * [Limitations](#limitations)
 * [Development](#development)
 
@@ -48,6 +49,12 @@ $banner_text = simp_banners::fetch('us/department_of_commerce')
 
 This module provides the `simp_banners::fetch()` function.  See
 [REFERENCE.md](REFERENCE.md) for more details.
+
+
+## Reference
+
+See the file [REFERENCE.md](./REFERENCE.md) for details.
+
 
 ## Limitations
 
